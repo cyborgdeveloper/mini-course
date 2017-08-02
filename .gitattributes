@@ -1,0 +1,3 @@
+*       text=auto
+*.ssh   text eol=lf
+*.bat   text eol=crlf

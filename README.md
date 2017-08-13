@@ -3,7 +3,7 @@ The intention of this course is to show how simple can be starting your software
 
 You can subscribe to [Cyborg Developer](https://cyborgdeveloper.tech/) initiative list to receive this bonus course directly to your inbox.
 
-__What's your biggest challenge to start automating your software today?__ Send the answer to _ask@cyborgdeveloper.com_ and I will help you on this journey to reduce project stress.
+__What's your biggest challenge to start automating your software today?__ Send the answer to _ask@cyborgdeveloper.com_ and I will help you on this journey to reduce project stress. If you prefer, send me a tweet [@rcmoutinho](https://twitter.com/rcmoutinho).
 
 ## Howto
 
